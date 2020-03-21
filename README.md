@@ -27,3 +27,8 @@ $(document).ready(function(){
     });
 });
 ```
+
+
+### End result: 
+Implementing something like this to an API end point/method to do some basic examples with MQ and some other infra testing to log "in real time"
+https://stackoverflow.com/questions/29266594/broadcast-to-all-connected-clients-except-sender-with-python-flask-socketio
